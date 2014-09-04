@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<base>
+  <startTime>
+    <year>2010</year>
+    <month>9</month>
+    <day>4</day>
+    <hour>12</hour>
+    <minute>0</minute>
+  </startTime>
+  <handles>
+    <handle>rng_58</handle>
+    <handle>tourist</handle>
+  </handles>
+</base>
